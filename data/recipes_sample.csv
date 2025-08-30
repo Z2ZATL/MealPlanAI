@@ -1,0 +1,9 @@
+id,title,tags,time_mins,ingredients
+1,Tomato Pasta,vegetarian;quick,20,tomato;garlic;onion;pasta;olive oil;salt
+2,Chicken Stir-fry,quick;asian,25,chicken;soy sauce;garlic;broccoli;oil;salt
+3,Green Curry,thai;spicy,40,chicken;coconut milk;green curry paste;basil;fish sauce;sugar
+4,Lentil Soup,vegan;high-protein,35,lentils;carrot;onion;garlic;celery;olive oil;salt
+5,Shakshuka,vegetarian;breakfast,25,egg;tomato;onion;garlic;paprika;olive oil;salt
+6,Beef Tacos,mexican;quick,20,beef;tortilla;onion;tomato;lettuce;cheese;salt
+7,Salmon Teriyaki,asian,30,salmon;soy sauce;sugar;ginger;garlic;rice
+8,Fried Rice,asian;quick,15,rice;egg;garlic;soy sauce;carrot;peas;oil;salt
